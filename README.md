@@ -12,7 +12,7 @@
 ------
 
 ### 音视频
-
+* [iOS降低帧率](https://github.com/GeorgeCh2/blog/blob/master/%E9%9F%B3%E8%A7%86%E9%A2%91/iOS%E9%99%8D%E4%BD%8E%E8%A7%86%E9%A2%91%E5%B8%A7%E7%8E%87.md)
 ------
 
 ### Java
