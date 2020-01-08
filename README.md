@@ -24,4 +24,4 @@
 ---
 
 ### 读书笔记
-* [中国人的性格]()
+* [中国人的性格](https://github.com/GeorgeCh2/blog/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%80%A7%E6%A0%BC.md)
